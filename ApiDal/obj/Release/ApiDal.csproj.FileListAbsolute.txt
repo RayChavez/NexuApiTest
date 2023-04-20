@@ -1,0 +1,14 @@
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Release\ApiDal.dll.config
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Release\ApiDal.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Release\ApiDal.pdb
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Release\EntityFramework.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Release\System.Data.SqlClient.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Release\EntityFramework.xml
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Release\System.Data.SqlClient.xml
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\obj\Release\ApiDal.csproj.AssemblyReference.cache
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\obj\Release\ApiDal.csproj.CoreCompileInputs.cache
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\obj\Release\ApiDal.csproj.CopyComplete
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\obj\Release\ApiDal.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\obj\Release\ApiDal.pdb

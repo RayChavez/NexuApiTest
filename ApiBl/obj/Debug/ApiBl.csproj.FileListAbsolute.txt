@@ -1,0 +1,15 @@
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\bin\Debug\ApiBl.dll.config
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\bin\Debug\ApiBl.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\bin\Debug\ApiBl.pdb
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\bin\Debug\ApiDal.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\bin\Debug\EntityFramework.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\bin\Debug\ApiDal.pdb
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\bin\Debug\ApiDal.dll.config
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\bin\Debug\EntityFramework.xml
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\obj\Debug\ApiBl.csproj.AssemblyReference.cache
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\obj\Debug\ApiBl.csproj.CoreCompileInputs.cache
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\obj\Debug\ApiBl.csproj.CopyComplete
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\obj\Debug\ApiBl.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiBl\obj\Debug\ApiBl.pdb

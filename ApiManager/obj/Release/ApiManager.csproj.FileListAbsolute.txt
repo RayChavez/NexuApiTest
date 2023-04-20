@@ -1,0 +1,17 @@
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Release\ApiManager.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Release\ApiManager.pdb
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Release\ApiBl.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Release\ApiDal.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Release\EntityFramework.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Release\ApiBl.pdb
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Release\ApiBl.dll.config
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Release\ApiDal.pdb
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Release\ApiDal.dll.config
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Release\EntityFramework.xml
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\obj\Release\ApiManager.csproj.AssemblyReference.cache
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\obj\Release\ApiManager.csproj.CoreCompileInputs.cache
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\obj\Release\ApiManager.csproj.CopyComplete
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\obj\Release\ApiManager.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\obj\Release\ApiManager.pdb

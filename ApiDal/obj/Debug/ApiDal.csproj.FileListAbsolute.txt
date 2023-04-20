@@ -1,0 +1,14 @@
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Debug\ApiDal.dll.config
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Debug\ApiDal.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Debug\ApiDal.pdb
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Debug\EntityFramework.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Debug\EntityFramework.xml
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\obj\Debug\ApiDal.csproj.CoreCompileInputs.cache
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\obj\Debug\ApiDal.csproj.CopyComplete
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\obj\Debug\ApiDal.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\obj\Debug\ApiDal.pdb
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Debug\System.Data.SqlClient.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\bin\Debug\System.Data.SqlClient.xml
+C:\Users\SYGNO\source\repos\ApiTest\ApiDal\obj\Debug\ApiDal.csproj.AssemblyReference.cache

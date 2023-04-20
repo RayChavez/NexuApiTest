@@ -1,0 +1,17 @@
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Debug\ApiManager.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Debug\ApiManager.pdb
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Debug\ApiBl.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Debug\ApiDal.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Debug\EntityFramework.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Debug\ApiBl.pdb
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Debug\ApiBl.dll.config
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Debug\ApiDal.pdb
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Debug\ApiDal.dll.config
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Debug\EntityFramework.xml
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\obj\Debug\ApiManager.csproj.AssemblyReference.cache
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\obj\Debug\ApiManager.csproj.CoreCompileInputs.cache
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\obj\Debug\ApiManager.csproj.CopyComplete
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\obj\Debug\ApiManager.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\obj\Debug\ApiManager.pdb
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SYGNO\source\repos\ApiTest\ApiManager\bin\Debug\EntityFramework.SqlServer.xml
